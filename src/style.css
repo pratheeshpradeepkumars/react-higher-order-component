@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.user {
+  margin: 2px;
+  padding: 1em;
+  background: #ddd;
+}
